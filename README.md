@@ -7,4 +7,5 @@ The Weather App is a web application built using Django that allows users to get
 * Allow users to search for weather information by city name.
 * User-friendly interface with responsive design for various devices.
 ### Image
-![Screenshot (186)](https://github.com/preetin01/Weather-App/assets/116423168/5d15a01d-3259-4ac9-9506-5a44fcd3923e)
+
+![Screenshot (190)](https://github.com/preetin01/PRODIGY_WD_05/assets/116423168/b14611c1-c8bf-4eb5-8a40-04cb52675085)
